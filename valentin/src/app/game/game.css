@@ -1,0 +1,39 @@
+main{
+    display:flex;
+    justify-content: center;
+    margin-left:50px;
+}
+
+#grid{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    margin-top: 10em;
+    border: 5px solid black;
+}
+
+#fruit{
+    background-color: orange;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}   
+
+#snake{
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-radius: 50px;
+}
+
+#snakeElem{
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-radius: 50px;
+}
+
+
+

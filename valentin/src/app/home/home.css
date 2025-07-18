@@ -1,0 +1,28 @@
+main {
+  margin-top:15rem;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#buttons {
+  position: relative;
+  max-width: 300px;
+  height: 60px;
+  
+ 
+}
+
+input{
+    border-radius: 50px;
+    font-size: 2rem;  
+    text-align: center;
+}
+button{
+    margin-bottom: 50%;
+    width : 397px;
+    border-radius: 50px;
+    height: 43px;
+    font-size: 2rem;
+}
