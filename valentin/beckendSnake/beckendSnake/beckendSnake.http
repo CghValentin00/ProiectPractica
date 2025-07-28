@@ -1,0 +1,6 @@
+@beckendSnake_HostAddress = http://localhost:5182
+
+GET {{beckendSnake_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
