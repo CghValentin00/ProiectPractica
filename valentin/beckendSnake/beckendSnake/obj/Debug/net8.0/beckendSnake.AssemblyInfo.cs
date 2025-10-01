@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("beckendSnake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+187842c3fc90543d9d59b7fb25b833606973902d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a21d9146085ff342d1df53aa52b130326f3a6cb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("beckendSnake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("beckendSnake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
