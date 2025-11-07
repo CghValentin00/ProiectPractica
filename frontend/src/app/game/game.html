@@ -1,0 +1,26 @@
+
+<main>
+
+<div id="grid">
+<div id="fruit"></div>
+</div>
+<div id="tableScores">
+    <table>
+        <thead>
+            <tr>
+                <th>Player</th>
+                <th>Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let score of highScores">
+                <td>{{ score.username }}</td>
+                <br>
+                <td>{{ score.score }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+</main>
+
