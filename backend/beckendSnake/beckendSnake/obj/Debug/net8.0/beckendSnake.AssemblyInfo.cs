@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("beckendSnake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c0c4d319b5f47e7fadbafc2e9ed793d4965d60f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05f01a65986ad5300c1ad01ad7d0bd2ede66c9bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("beckendSnake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("beckendSnake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
