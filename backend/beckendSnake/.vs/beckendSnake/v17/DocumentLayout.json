@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\",
+  "WorkspaceRootPath": "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|c:\\users\\colav\\onedrive\\documents\\github\\proiectpractica\\valentin\\beckendsnake\\beckendsnake\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|d:\\proiect\\proiectpractica\\backend\\beckendsnake\\beckendsnake\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|solutionrelative:beckendsnake\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,19 +20,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "beckendSnake\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "beckendSnake\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T23:06:34.837Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

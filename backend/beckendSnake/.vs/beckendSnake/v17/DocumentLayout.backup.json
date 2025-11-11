@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\",
+  "WorkspaceRootPath": "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|c:\\users\\colav\\onedrive\\documents\\github\\proiectpractica\\valentin\\beckendsnake\\beckendsnake\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|solutionrelative:beckendsnake\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|c:\\users\\colav\\onedrive\\documents\\github\\proiectpractica\\valentin\\beckendsnake\\beckendsnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|solutionrelative:beckendsnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|c:\\users\\colav\\onedrive\\documents\\github\\proiectpractica\\valentin\\beckendsnake\\beckendsnake\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|solutionrelative:beckendsnake\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|c:\\users\\colav\\onedrive\\documents\\github\\proiectpractica\\valentin\\beckendsnake\\beckendsnake\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|solutionrelative:beckendsnake\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|c:\\users\\colav\\onedrive\\documents\\github\\proiectpractica\\valentin\\beckendsnake\\beckendsnake\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|d:\\proiect\\proiectpractica\\backend\\beckendsnake\\beckendsnake\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|solutionrelative:beckendsnake\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|c:\\users\\colav\\onedrive\\documents\\github\\proiectpractica\\valentin\\beckendsnake\\beckendsnake\\migrations\\aplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|solutionrelative:beckendsnake\\migrations\\aplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|c:\\users\\colav\\onedrive\\documents\\github\\proiectpractica\\valentin\\beckendsnake\\beckendsnake\\beckendsnake.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{0FF780BA-8578-494F-9046-8A51DFF58FD5}|beckendSnake\\beckendSnake.csproj|solutionrelative:beckendsnake\\beckendsnake.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Migrations\\AplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "beckendSnake\\Migrations\\AplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Migrations\\AplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "beckendSnake\\Migrations\\AplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:18:53.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "beckendSnake.http",
-              "DocumentMoniker": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\beckendSnake.http",
-              "RelativeDocumentMoniker": "beckendSnake\\beckendSnake.http",
-              "ToolTip": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\beckendSnake.http",
-              "RelativeToolTip": "beckendSnake\\beckendSnake.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-27T00:18:50.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Program.cs",
-              "RelativeDocumentMoniker": "beckendSnake\\Program.cs",
-              "ToolTip": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Program.cs",
-              "RelativeToolTip": "beckendSnake\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:18:39.111Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Score.cs",
-              "DocumentMoniker": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Models\\Score.cs",
-              "RelativeDocumentMoniker": "beckendSnake\\Models\\Score.cs",
-              "ToolTip": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Models\\Score.cs",
-              "RelativeToolTip": "beckendSnake\\Models\\Score.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:18:34.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "beckendSnake\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "beckendSnake\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T23:06:37.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "beckendSnake\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "beckendSnake\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T23:06:34.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ScoresController.cs",
-              "DocumentMoniker": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Controllers\\ScoresController.cs",
-              "RelativeDocumentMoniker": "beckendSnake\\Controllers\\ScoresController.cs",
-              "ToolTip": "C:\\Users\\colav\\OneDrive\\Documents\\GitHub\\ProiectPractica\\valentin\\beckendSnake\\beckendSnake\\Controllers\\ScoresController.cs",
-              "RelativeToolTip": "beckendSnake\\Controllers\\ScoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T23:06:26.945Z"
+              "WhenOpened": "2025-07-27T23:06:34.837Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proiect Practica\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\beckendSnake.csproj": {}
+    "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\beckendSnake.csproj": {}
   },
   "projects": {
-    "D:\\Proiect Practica\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\beckendSnake.csproj": {
+    "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\beckendSnake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proiect Practica\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\beckendSnake.csproj",
+        "projectUniqueName": "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\beckendSnake.csproj",
         "projectName": "beckendSnake",
-        "projectPath": "D:\\Proiect Practica\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\beckendSnake.csproj",
+        "projectPath": "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\beckendSnake.csproj",
         "packagesPath": "C:\\Users\\colav\\.nuget\\packages\\",
-        "outputPath": "D:\\Proiect Practica\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\obj\\",
+        "outputPath": "D:\\Proiect\\ProiectPractica\\backend\\beckendSnake\\beckendSnake\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
